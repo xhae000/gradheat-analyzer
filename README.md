@@ -1,4 +1,11 @@
-# gradheat-analyzer
+# gradheat-analyzer<p align="center">
+  <img src="https://img.shields.io/badge/gradle-0.0-blue?logo=gradle" alt="Gradle Badge"/>
+  <img src="https://img.shields.io/badge/kotlin-1.9.0-purple?logo=kotlin" alt="Kotlin Badge"/>
+  <img src="https://img.shields.io/badge/cli-Tool-lightgrey" alt="CLI Tool Badge"/>
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License Badge"/>
+  <img src="https://img.shields.io/badge/status-early--stage-orange" alt="Early Stage Badge"/>
+</p>
+
 
 **gradheat-analyzer** is an open-source CLI tool that analyzes Gradle builds to detect task-level bottlenecks and suggest actionable performance improvements.
 It helps developers understand and optimize build performance through transparent, extensible, and inspectable diagnostics.

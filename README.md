@@ -1,6 +1,7 @@
 # gradheat-analyzer
 <p align="center">
-  <img src="https://img.shields.io/badge/gradle-8.14.2-blue?logo=gradle" alt="Gradle Badge"/> <img src="https://img.shields.io/badge/kotlin-1.9.25-purple?logo=kotlin" alt="Kotlin Badge"/> <img src="https://img.shields.io/badge/cli-Tool-lightgrey" alt="CLI Tool Badge"/> <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License Badge"/> <img src="https://img.shields.io/badge/status-early--stage-orange" alt="Early Stage Badge"/>
+  <img src="https://img.shields.io/badge/gradle-8.14.2-blue?logo=gradle" alt="Gradle Badge"/> <img src="https://img.shields.io/badge/kotlin-1.9.25-purple?logo=kotlin" alt="Kotlin Badge"/> <img src="https://img.shields.io/badge/cli-Tool-lightgrey" alt="CLI Tool Badge"/> <img src="https://img.shields.io/badge/license-Apache_2.0-green" alt="Apache 2.0 License Badge"/>
+ <img src="https://img.shields.io/badge/status-early--stage-orange" alt="Early Stage Badge"/>
 </p>
 
 
